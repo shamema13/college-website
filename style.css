@@ -293,7 +293,7 @@ h3{
     text-align: left;
 }
 
-.testimonials-col fa{
+.testimonials-col .fa,.fa-solid,.fa-regular{
     color: #f44336;
 }
 
@@ -344,14 +344,14 @@ h3{
     margin-top: 20px;
     font-weight: 600;
 }
-.icons .fa{
+.icons .fa-brands{
     color: #f44336;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
 
 }
-.fa-heart-o {
+.fa-heart{
     color: #f44336;
 }
 
